@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.6",
@@ -9,4 +10,17 @@
 			"Enabled": true
 		}
 	]
+=======
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		}
+	]
+>>>>>>> a3bdcc312bf5adaf0e34519462b3d50705f60d98
 }
